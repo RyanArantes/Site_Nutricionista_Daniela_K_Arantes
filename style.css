@@ -114,4 +114,18 @@ h4{
         flex-direction: column;
         align-items: center;
     }
+
+    .cabecalho{
+        flex-direction: column;
+    }
+
+    .cabecalho h1{
+        font-size: 1.8rem;
+        text-align: center;
+    }
+
+    .cabecalho img {
+        height: 20dvh;
+        margin-top: 1dvh;
+    }
 }
